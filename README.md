@@ -1,4 +1,4 @@
-Simple TCP server written in Kotlin to read line delimited JSON from a socket and print the stdout.
+Simple TCP server written in Kotlin to read line delimited JSON from a socket and print to stdout.
 
 ## Build
 ```shell
