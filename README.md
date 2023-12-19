@@ -8,6 +8,8 @@ mvn package
 ## Usage
 
 ```shell
+> java -jar target/PrintServer2-1.0-SNAPSHOT-jar-with-dependencies.jar --help
+
 Usage: print-server [<options>]
 
 Options:
